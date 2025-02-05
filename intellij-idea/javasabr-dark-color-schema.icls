@@ -1,10 +1,8 @@
-<scheme name="CustomDark" version="142" parent_scheme="Darcula">
+<scheme name="JavaSaBr-Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-01-12T09:19:57</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2022.3.1.0.0</property>
-    <property name="modified">2023-01-12T09:19:59</property>
-    <property name="originalScheme">CustomDark</property>
+    <property name="ideVersion">2024.3.1.0.0</property>
+    <property name="originalScheme">JavaSaBr-Dark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="549159" />
@@ -46,7 +44,21 @@
         <option name="FOREGROUND" value="acb17d" />
       </value>
     </option>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="6a6bb1" />
+      </value>
+    </option>
+    <option name="Abstract class name">
+      <value>
+        <option name="FOREGROUND" value="acb17d" />
+      </value>
+    </option>
+    <option name="Anonymous class name">
       <value>
         <option name="FOREGROUND" value="6a6bb1" />
       </value>
@@ -83,9 +95,42 @@
         <option name="EFFECT_COLOR" value="868a91" />
       </value>
     </option>
-    <option name="DEFAULT_CLASS_NAME">
+    <option name="Class">
+      <value>
+        <option name="FOREGROUND" value="7fb1a3" />
+      </value>
+    </option>
+    <option name="DART_CONSTRUCTOR">
       <value>
         <option name="FOREGROUND" value="678cb1" />
+      </value>
+    </option>
+    <option name="DART_ENUM">
+      <value>
+        <option name="FOREGROUND" value="18db1" />
+      </value>
+    </option>
+    <option name="DART_LOCAL_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="DART_LOCAL_FUNCTION_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="DART_TOP_LEVEL_GETTER_REFERENCE">
+      <value />
+    </option>
+    <option name="DART_TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="7fb1a3" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -126,6 +171,11 @@
       </value>
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="18db1" />
+      </value>
+    </option>
+    <option name="Enum name">
       <value>
         <option name="FOREGROUND" value="18db1" />
       </value>
